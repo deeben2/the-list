@@ -35,6 +35,7 @@
             <li>
                 Press Pizza
 
+                {{-- Can also pass in a "max" value --}}
                 <x-rating of="3" />
             </li>
             <li>Leon's Pizza</li>
